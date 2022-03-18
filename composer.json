@@ -1,0 +1,19 @@
+{
+    "name": "ga/test",
+    "description": "test actions",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ga\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Juan Iriart",
+            "email": "jeiriart@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.10"
+    }
+}
